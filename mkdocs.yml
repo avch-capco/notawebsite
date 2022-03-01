@@ -1,0 +1,8 @@
+site_name: "NotAWebsite"
+site_description: "this is not website"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
