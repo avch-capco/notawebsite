@@ -5,6 +5,7 @@ metadata:
   description: "this is not website"
   annotations:
     github.com/project-slug: avch/notawebsite
+    circleci.com/project-slug: github/avch-capco/notawebsite
     backstage.io/techdocs-ref: dir:.
 spec:
   type: website
