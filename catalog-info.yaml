@@ -6,6 +6,8 @@ metadata:
   annotations:
     github.com/project-slug: avch/notawebsite
     circleci.com/project-slug: github/avch-capco/notawebsite
+    snyk.io/org-name: avch-capco
+    snyk.io/project-ids: 049e9dec-07d5-46f8-ac5d-129f2f836d37
     backstage.io/techdocs-ref: dir:.
 spec:
   type: website
